@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<!--Se muestra el encabezado junto con el parrafo usando body y html-->
+<h1 style="color:blue;">Titulo usando html </h1>
+<p style="color: crimson;">Parrafo usando html</p>
+
+</body>
+</html>
