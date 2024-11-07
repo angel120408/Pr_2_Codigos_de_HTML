@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<!--Nos muestra el encabezado-->
+<h2>PR_2 Colores </h2>
+
+<br><!--Deja un espacio-->
+
+<!--El parrafo se muestra con un color-->
+<p style ="color:blue;" > Este parrafo es de color azul </p>
+
+</body>
+</html>
