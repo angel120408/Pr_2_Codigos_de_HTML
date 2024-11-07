@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<!--El encabezado nos dice que pasemos el raton por encima para mostrar el mensaje-->
+<h2 title="Este es el encabezado">Gran Titul<o</h2>
+<p title="Este es el parrafo">Gran parrafo</p>
+
+</body>
+</html>
