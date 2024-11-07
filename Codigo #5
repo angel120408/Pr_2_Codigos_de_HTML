@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Atributo alt</h2>
+
+<p>En el atributo alt, no se muestra la imagen si no que muestra "alf":</p>
+
+<img src="img_girl.jpg" alt="Mujer con chamarra" width="500" height="600">
+
+</body>
+</html>
