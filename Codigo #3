@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<!--Muestra un encabezado junto con un parrafo-->
+<h2> Muestra el Link </h2>
+
+<p>Abajo se encontrara un link a google
+</p>
+
+<!--Muestra la palabra "link"-->
+<a href="https://www.google.com/webhp?hl=es-419&sa=X&ved=0ahUKEwj4x_aNn8uJAxWPPkQIHeFwAiMQPAgI">Te lleva al buscador de google</a>
+</body>
+</html>
